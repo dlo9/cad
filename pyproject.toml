@@ -1,0 +1,10 @@
+[project]
+name = "cad"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cq-editor>=0.4.0",
+    "cq-queryabolt>=0.1.2",
+]
